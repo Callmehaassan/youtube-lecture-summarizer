@@ -1,0 +1,11 @@
+.env
+output/
+__pycache__/
+*.pyc
+.venv/
+history.json
+playlist_debug.txt
+run.py
+test_urdu.py
+testpl.py
+tools/test_playlist.py
